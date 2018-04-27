@@ -1,9 +1,9 @@
-package fr.exia.helloworldmaven;
+package org.helloworldmvc.model;
 
 /**
  * Hello world!
  *
-. */
+ */
 public class App 
 {
     public static void main( String[] args )
@@ -11,4 +11,3 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
-//My first commit
